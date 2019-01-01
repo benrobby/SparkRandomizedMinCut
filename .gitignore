@@ -1,0 +1,8 @@
+target/
+project/build.properties
+project/project
+project/target
+data/parsed
+data/connectedPersons
+checkpointdir/
+spark-warehouse/
